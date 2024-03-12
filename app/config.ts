@@ -20,6 +20,10 @@ const configCopy = {
         header: "Explore Our Product Showcase",
         subtitle: "Find the Perfect Solutions Tailored to Your Requirements"
     },
+    testimonial:{
+        header: "Testimonial",
+        subtitle: "Listen to them, not us"
+    },
     pricing:{
         header: "Find the Perfect Fit",
         subtitle: "Pricing Plans for Every Business Size",

@@ -6,7 +6,7 @@ export function Features() {
 
   return (
     <section>
-      <div className="relative items-center w-full px-5 py-12 mx-auto md:px-12 lg:px-16 max-w-7xl">
+      <div className="relative items-center w-full px-10 py-12 mx-auto md:px-12 lg:px-16 max-w-7xl">
         <div className="flex flex-col text-center w-full mb-12">
           <span className="text-xl font-medium text-primary">
             {configCopy.features.header}

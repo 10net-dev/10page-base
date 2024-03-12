@@ -1,4 +1,4 @@
-import configCopy from "../../config";
+import configCopy from "../../../config";
 
 export function Pricing() {
 

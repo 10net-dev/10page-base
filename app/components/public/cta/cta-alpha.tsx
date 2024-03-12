@@ -1,5 +1,5 @@
 import Image from "next/image";
-import configCopy from "../../config";
+import configCopy from "../../../config";
 
 export function Cta() {
   return (
